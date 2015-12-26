@@ -17,6 +17,6 @@ public class About
   }
   
   private void test() {
-	  System.out.println("test!!");
+	  System.out.println("test!!1");
   }
 }
