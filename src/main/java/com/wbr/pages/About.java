@@ -18,5 +18,6 @@ public class About
   
   private void test() {
 	  System.out.println("test!!1");
+	  System.out.println("test!!123");
   }
 }
