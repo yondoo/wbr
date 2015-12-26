@@ -16,4 +16,8 @@ public class About
     this.learn = learn;
     // comment here
   }
+  
+  private void test() {
+	  System.out.println("test");
+  }
 }
